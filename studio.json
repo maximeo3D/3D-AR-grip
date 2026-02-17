@@ -26,12 +26,12 @@
   },
   "viewpoints": {
     "Viewpoint1": {
-      "alpha": 3.830997708127553,
+      "alpha": 4.2394047530942265,
       "beta": 1.2158707636692831,
-      "radius": 39.99055512075026,
+      "radius": 54.991264097945006,
       "fov": 15,
-      "minDistance": 15,
-      "maxDistance": 40,
+      "minDistance": 35,
+      "maxDistance": 55,
       "targetX": 0,
       "targetY": 0,
       "targetZ": 0
